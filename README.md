@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sparsh Ranjan
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Supervised Learning
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+-    I've understanding of Python(Numpy,Pandas,Matplotlib,Seaborn)
+     Also I've done some projects of Pygame
+      
 
 <!---
 Captain-Sparsh/Captain-Sparsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
