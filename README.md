@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Sparsh Ranjan
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Supervised Learning
--    I've understanding of Python(Numpy,Pandas,Matplotlib,Seaborn)
-     Also I've done some projects of Pygame
+- 
       
 
 <!---
